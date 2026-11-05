@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sales-pipelines-flutter",
+  "capabilityKey": "liberusoftware/module-crm-sales-pipelines",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_sales_pipelines_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/sales-pipelines.md",
+  "presentationPlan": "projects/crm/flutter/sales-pipelines.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
